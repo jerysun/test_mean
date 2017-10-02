@@ -14,7 +14,7 @@ deserialization), "lambda expression", ... Of course, RAW pointers to the
 memory buffer are inevitable since you're using C++ instead of Java ^_^
 
 ![alt a screenshot of the output result]
-(https://github.com/jerysun/mean_of_best_records/blob/master/mobr.jpg?raw=true)
+(https://github.com/jerysun/test_mean/blob/master/mobr.jpg?raw=true)
 
 Well, I know you're curious about what the MySQL sql query statement in this
 case looks exactly like. The answer is:
