@@ -2,6 +2,7 @@ Arithmetic mean problem of the Top N records in Database SQL
 
 There are a list of athletes' records consisting of (id, ath_id, name,
 record, r_date), a single athlete may have several different records.
+
 Please find a solution to list the arithmetic means of the best
 three records(so-called top n, here n is 3) of EACH athlete.
 
