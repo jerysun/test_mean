@@ -1,8 +1,9 @@
 /*
  * filename: mean_of_best_records.h
  * describe: Arithmetic mean problem of the Top N records in Database SQL.
- *           There are a list of athletes' records consisting of ath_id,
- *           name, record, r_date. Please find a solution to list the
+ *           There are a list of athletes' records consisting of (id, ath_id,
+ *           name, record, r_date), a single athlete may have several
+ *           different records. Please find a solution to list the
  *           arithmetic means of the best three records(so-called top n,
  *           here n is 3) of EACH athlete.
  * author:   Jerry Sun <jerysun0818@gmail.com>
@@ -16,7 +17,7 @@
  *           pointers", "hash table", "template programming", database
  *           persistence (binary serialization and deserialization),
  *           "lambda expression", ... Of course, RAW pointers to the memory
- *           buffer are inevitable since you're using C++ instead of Java ^_^
+ *           buffer are inevitable since you're using C++ instead of Java^_^
  *
  *           The complete project that can be built in my github:
  *           https://github.com/jerysun
