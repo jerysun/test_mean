@@ -12,7 +12,7 @@
  *           possible but still not easy; A C++ program, wow, that's REALLY
  *           a CHALLENGE!
  *           
- *           Let's get it done using the modern C++, C++14 precisely. The 
+ *           Let's get it done using the modern C++, C++14 precisely. It 
  *           shows you the charming & power of "move semantics", "smart
  *           pointers", "hash table", "template programming", database
  *           persistence (binary serialization and deserialization),
