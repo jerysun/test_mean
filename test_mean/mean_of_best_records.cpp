@@ -1,7 +1,7 @@
 #include "stdafx.h"
 
 /*
- * filename: mean_of_best_records.h
+ * filename: mean_of_best_records.cpp
  * describe: Arithmetic mean problem of the Top N records in Database SQL.
  *           There are a list of athletes' records consisting of (id, ath_id,
  *           name, record, r_date), a single athlete may have several
