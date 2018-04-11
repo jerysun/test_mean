@@ -21,6 +21,8 @@ memory buffer are inevitable since you're using C++ instead of Java ^_^
 Well, I know you're curious about what the MySQL sql query statement in this
 case looks exactly like. The answer is:
 
+```bash
+
 SELECT ath_id, avg(record)
 
 FROM 
@@ -36,6 +38,9 @@ FROM
   WHERE t1.ath_id=ath_id and record > t1.record) < 3) as d
 
 GROUP BY ath_id;
+
+```bash
+
 
 Don't panic, dude :-)
 
