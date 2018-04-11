@@ -1,4 +1,4 @@
-Arithmetic mean problem of the Top N records in Database SQL
+# Arithmetic mean problem of the Top N records in Database SQL
 
 There are a list of athletes' records consisting of (id, ath_id, name,
 record, r_date), a single athlete may have several different records.
