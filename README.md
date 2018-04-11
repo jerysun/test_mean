@@ -39,7 +39,7 @@ FROM
 
 GROUP BY ath_id;
 
-```bash
+```
 
 
 Don't panic, dude :-)
